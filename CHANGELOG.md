@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/danielcuracica1/work-with-git/compare/v1.1.0...v1.1.1) (2023-01-13)
+
+
+### Bug Fixes
+
+* trigger build ([601d92a](https://github.com/danielcuracica1/work-with-git/commit/601d92a62e71f7ffdbb772f2df0c2ed94887d34a))
+
 ## [1.1.0](https://github.com/danielcuracica1/work-with-git/compare/v1.0.0...v1.1.0) (2023-01-13)
 
 
