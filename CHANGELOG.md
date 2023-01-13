@@ -1,3 +1,10 @@
+## [1.2.0](https://github.com/danielcuracica1/work-with-git/compare/v1.1.1...v1.2.0) (2023-01-13)
+
+
+### Features
+
+* print current time ([b6ad016](https://github.com/danielcuracica1/work-with-git/commit/b6ad016a69b626b82677fb64108ec1071ed444eb))
+
 ## [1.1.1](https://github.com/danielcuracica1/work-with-git/compare/v1.1.0...v1.1.1) (2023-01-13)
 
 
