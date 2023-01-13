@@ -1,3 +1,4 @@
+
 # trainee-release-with-git
 
 This is the trainee course material for the session "Release with Git" which
@@ -40,3 +41,4 @@ begin!
 * [Semantic Release: Release Workflows](https://semantic-release.gitbook.io/semantic-release/recipes/release-workflow)
 * [Git Rebase: Git In Practice](https://www.thinktecture.com/en/tools/demystifying-git-rebase)
 * [Video: VSCode GitLens Interactive Rebase UI](https://www.youtube.com/watch?v=P5p71fguFNI)
+
